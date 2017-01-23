@@ -49,7 +49,6 @@ public class MainActivity extends AppCompatActivity {
             rbd.setCircular(true);
             arFoto[i] = rbd;
         }
-
         a.recycle();
 
         for (int i = 0; i < arJudul.length; i++) {
