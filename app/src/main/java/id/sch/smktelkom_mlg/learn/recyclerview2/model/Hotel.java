@@ -5,6 +5,8 @@ import android.graphics.drawable.Drawable;
 /**
  * Created by daiki on 23/01/2017.
  */
+
+
 public class Hotel {
 
     public String judul;
@@ -18,6 +20,3 @@ public class Hotel {
         this.foto = foto;
     }
 }
-
-
-
